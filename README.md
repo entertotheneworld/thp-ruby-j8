@@ -14,6 +14,7 @@ $ bundle install
 $ rspec --init
 ```
 To verify the installation you must have a Gemfile.lock file in the ruby_j7 folder.
+
 ⚠️ COMMON ERROR : Check that your version of ruby ​​matches the one saved in the gem file.
 
 ## 3. Testing
